@@ -17,10 +17,7 @@
     "name": "Andrea Giammarchi",
     "web": "http://webreflection.blogspot.com/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/WebReflection/eddy.git"
-  },
+  "repo": "techjacker/eddy",
   "main": "./build/eddy.dom.js",
   "scripts": ["./build/eddy.dom.js"]
 }
