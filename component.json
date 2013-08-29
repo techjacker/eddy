@@ -1,0 +1,26 @@
+{
+  "version": "0.2.2",
+  "name": "eddy",
+  "description": "Event Driven JS - Now In Core!",
+  "homepage": "https://github.com/WebReflection/eddy",
+  "keywords": [
+    "event",
+    "driven",
+    "standard",
+    "ES3", "ES5", "ES6",
+    "node",
+    "rhino",
+    "browser",
+    "IE"
+  ],
+  "author": {
+    "name": "Andrea Giammarchi",
+    "web": "http://webreflection.blogspot.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WebReflection/eddy.git"
+  },
+  "main": "./build/eddy.dom.js",
+  "scripts": ["./build/eddy.dom.js"]
+}
